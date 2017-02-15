@@ -1,5 +1,6 @@
 # AndroidIntensivo
 This repo has the exercise of a training course provided by Belatrix Software 
+
 1. Android Life cycle
 2. Show time
 3. Text editor in new activity
