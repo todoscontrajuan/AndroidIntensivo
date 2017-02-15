@@ -100,14 +100,4 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, ListViewActivity.class);
         startActivity(intent);
     }
-
-    public void locationExercise(View view) {
-        Intent intent = new Intent(this, LocationActivity.class);
-        startActivity(intent);
-    }
-
-    public void restExercise(View view) {
-        Intent intent = new Intent(this, RestActivity.class);
-        startActivity(intent);
-    }
 }

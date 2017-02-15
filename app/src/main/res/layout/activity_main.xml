@@ -54,20 +54,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Ejercicio 9, Lista Simple"
+        android:text="Ejercicio 9"
         android:id="@+id/button6"
         android:onClick="listExercise"/>
-
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Ejercicio 10, Location"
-        android:id="@+id/button7"
-        android:onClick="locationExercise"/>
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Ejercicio 11, Rest Access"
-        android:id="@+id/button8"
-        android:onClick="restExercise"/>
 </LinearLayout>

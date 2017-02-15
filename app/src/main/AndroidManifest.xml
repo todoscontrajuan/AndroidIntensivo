@@ -39,8 +39,6 @@
             android:exported="false" />
 
         <activity android:name=".ListViewActivity" />
-        <activity android:name=".LocationActivity" />
-        <activity android:name=".RestActivity"></activity>
     </application>
 
 </manifest>
