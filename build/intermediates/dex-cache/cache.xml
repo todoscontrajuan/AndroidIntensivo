@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_3d401a2540d9c02485f3b4f6364849a6d5163d82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jrodriguez/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_a01a31acda82845904a704bc69e2f942227a9635/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_1a14ad46e4aa01cdf73d00fb949ce4689005669c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_b6414b7d05bd4d3a4cf3c28b5642f2657cbe18a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_9dd0a84ec723536019b5e5277b10b572e83f9431/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_d39260bdbabd210fbe37d04b00b171f00b932fea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a0931fb4318a2d32bd9d71e76d580b4ba9ff73e1">
+        <dex dex="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_6d72d6e9a257edb0ca8908f0cfca51de60e6fca3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9d4412c95a59f1fc91843b8a9dc9c5d1c7d244f6">
+        <dex dex="/Users/jrodriguez/AndroidIntensivo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d04a45a661272cad6d5e79519b9e6bc5a37f0298/classes.dex" />
+    </item>
+
+</items>
