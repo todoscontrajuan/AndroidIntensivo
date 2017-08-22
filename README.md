@@ -1,5 +1,5 @@
 # android-intensivo
-This repo has the exercises of a training course provided by Belatrix Software 
+Curso de capacitación de Android tomado en Belatrix Software.
 
 1. Android Life cycle
 2. Show time
